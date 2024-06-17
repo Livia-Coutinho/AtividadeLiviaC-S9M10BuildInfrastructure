@@ -1,6 +1,9 @@
 # AtividadeLiviaC-S9M10BuildInfrastructure
 
 ### AWS Academy
+![alt text](<assets\screen1.jpg>)
+
+
 ![alt text](<assets\print1.jpg>)
 ![alt text](<assets\print2.jpg>)
 ![alt text](<assets\print3.png>)
@@ -28,11 +31,17 @@
 ![alt text](<assets\print8.jpg>)
 - Segunda tentativa - ok
 
-
 ### Comandos instalação AWS CLI
 
 ![alt text](<assets\print9.jpg>)
 
 
+
+
+![alt text](<assets\print4.jpg>)
+![alt text](<assets\print4.jpg>)
+![alt text](<assets\print4.jpg>)
+![alt text](<assets\print4.jpg>)
+![alt text](<assets\print4.jpg>)
 
 
