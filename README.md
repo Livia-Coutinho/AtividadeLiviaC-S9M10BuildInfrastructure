@@ -1,8 +1,15 @@
 # AtividadeLiviaC-S9M10BuildInfrastructure
 
 ### AWS Academy
-![alt text](<Imagem do WhatsApp de 2024-06-11 à(s) 11.40.26_a1872abc.jpg>)
 
+![Texto Alternativo](https://imgur.com/a/g1doQPO)
+
+
+
+
+
+![alt text](<Imagem do WhatsApp de 2024-06-11 à(s) 11.40.26_a1872abc.jpg>)
+![alt text](<Imagem do WhatsApp de 2024-06-11 à(s) 11.40.33_59e67b15.jpg>)
 ![alt text](<assets\print1.jpg>)
 ![alt text](<assets\print2.jpg>)
 ![alt text](<assets\print3.png>)
