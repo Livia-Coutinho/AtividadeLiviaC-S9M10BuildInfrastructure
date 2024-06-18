@@ -1,5 +1,14 @@
 # AtividadeLiviaC-S9M10BuildInfrastructure
 
+### Observação sobre as imagens
+Peço desculpas pela desordem na inserção das imagens. Inicialmente, coloquei os prints na pasta assets, como costumo fazer. No entanto, enquanto no VS Code as imagens apareciam normalmente, no GitHub Web elas estavam com a visualização quebrada.
+
+Tentei utilizar o Imgur, mas também não funcionou. Finalmente, decidi colar os prints diretamente no readme, sem colocá-los em nenhuma pasta. 
+
+As imagens estão nomeadas com "whatsapp" porque, conforme eu seguia os passos e tirava os prints, ia salvando-os em um grupo que tenho comigo mesma no WhatsApp.
+
+
+
 ### AWS Academy
 
 ![alt text](<Imagem do WhatsApp de 2024-06-11 à(s) 11.40.26_a1872abc.jpg>)
@@ -69,3 +78,4 @@
 ![alt text](<Imagem do WhatsApp de 2024-06-11 à(s) 11.12.15_5c8fec02.jpg>)
 ![alt text](<Imagem do WhatsApp de 2024-06-11 à(s) 11.12.25_b9fe8f6b.jpg>)
 ![alt text](<Imagem do WhatsApp de 2024-06-11 à(s) 11.13.12_73800574.jpg>)
+
